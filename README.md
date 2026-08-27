@@ -84,6 +84,17 @@ A **5-point Likert Scale** was used to evaluate perceptions relating to:
 
 ---
 
+## 📄 Research Documentation
+
+A concise, portfolio-ready research report is available for a deeper review of the project's methodology, analytical framework, findings, limitations, and recommendations.
+
+### 📘 Project Research Summary
+
+[**View / Download Research Project Summary (PDF) →**](documentation/Viksit_Bharat_HR_Research_Project_Summary.pdf)
+
+> **Note:** This is a sanitized portfolio summary of the academic research project. Administrative documents, personal information, certificates, and other non-essential material from the original internship report have been excluded.
+
+---
 
 ## 🔬 Variables Studied
 
