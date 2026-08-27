@@ -68,6 +68,23 @@ A **5-point Likert Scale** was used to evaluate perceptions relating to:
 
 ---
 
+## 📊 Research Visuals
+
+### Organizational Readiness
+
+![Organizational Readiness](organizational_readiness.png)
+
+### HR Practices
+
+![HR Practices](hr_practices.png)
+
+### Change Management
+
+![Change Management](change_management.png)
+
+---
+
+
 ## 🔬 Variables Studied
 
 ### HR Practice Variables
